@@ -42,6 +42,6 @@ the same as expected (however, we cannot measure it accurately since our oscillo
 When a simple RC low pass filter was applied (R = 1k, C = 470nF) the output signal became quite nice, 
 but the peak-to-peak amplitude was decreased from 3.3 V to 2.1 V.
 
-![](./images/mbed6_PWM_sinewave.jpg)
+![](./images/mbed6_PWM_sinewave_filtered.jpg)
 
 **Note:** The vertical scale is in arbitrary units, actually the 20.0 value corresponds to 3.3 V.
